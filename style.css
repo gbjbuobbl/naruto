@@ -1,0 +1,16 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.anchor {
+    font-size: 18px;
+    margin: 20px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius:20px ;
+}
